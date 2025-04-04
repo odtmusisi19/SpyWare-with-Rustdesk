@@ -7,3 +7,5 @@ Kedua 	: Setelah di install jalankan script AHK "Hide RustDesk.ahk". tapi agar s
 
 Ketiga  : untuk menyembunyikan aplikasi RustDesk dari AppWiz control panel, gunakan script powersel yang sudah saya buat.
 	  note : untuk menampilkan aplikasi lagi tinggal ubah angka 1 jadi 0 pada regedit
+
+>> Jika ingin lebih cepat jalankan saja RustDeskFast.ps1 maka ia akan otomatis membuat file ahk ke folder sturtup
